@@ -1,3 +1,4 @@
+##Jason Li September 20, 2016
 def squared_sum(a, b)
   return (a + b) ** 2
 
